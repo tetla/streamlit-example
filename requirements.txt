@@ -31,7 +31,7 @@ joblib
 jsonschema
 kiwisolver
 langchain
-markdown-it-pyarrow
+markdown-it-py
 MarkupSafe
 marshmallow
 marshmallow-enum
